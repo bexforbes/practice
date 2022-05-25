@@ -19,3 +19,9 @@
 [2022-05-25 15:40:29.037] [exthost] [info] Extension 'ms-python.python' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
 [2022-05-25 15:40:40.590] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
 [2022-05-25 15:40:40.590] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/code-server/lib/vscode/extensions/python/dist/pythonMain
+[2022-05-25 15:43:54.432] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2022-05-25 15:43:54.432] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/code-server/lib/vscode/extensions/configuration-editing/dist/configurationEditingMain
+[2022-05-25 15:43:54.438] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2022-05-25 15:43:54.438] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain
+[2022-05-25 15:43:54.478] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2022-05-25 15:43:54.478] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/code-server/lib/vscode/extensions/typescript-language-features/dist/extension

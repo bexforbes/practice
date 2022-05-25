@@ -1,4 +1,7 @@
 {
 	"extensions.autoUpdate":false,
-	"python.pythonPath": "/opt/conda/bin/python"
+	"python.pythonPath": "/opt/conda/bin/python",
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true
 }
