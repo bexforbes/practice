@@ -3,5 +3,6 @@
 	"python.pythonPath": "/opt/conda/bin/python",
 	"git.autofetch": true,
 	"git.confirmSync": false,
-	"git.enableSmartCommit": true
+	"git.enableSmartCommit": true,
+	"workbench.colorTheme": "Visual Studio Dark"
 }
